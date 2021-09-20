@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @rijnr
-- 👀 I’m interested in coding smart contracts
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on nodeJS/Solidity
 - 📫 How to reach me rvanrijn@nysolutions.io
 
 <!---
